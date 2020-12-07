@@ -1,0 +1,959 @@
+[{
+  "_id": {
+    "$oid": "5f84296d8b77e51ddc3e4437"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "5f84296d8b77e51ddc3e4438"
+      },
+      "product": {
+        "$oid": "5f7f14a02d308c1e3ceee44e"
+      },
+      "name": "Nóng giận là bản năng",
+      "image": "/uploads\\1602163863623.jpg",
+      "price": "3",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "$oid": "5f759b08f08b0e0b90eb9764"
+  },
+  "shipping": {
+    "address": "tay dang ba vi ha noi",
+    "city": "Ha Noi",
+    "postalCode": "12333",
+    "country": "Việt Nam"
+  },
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 3,
+  "taxPrice": 0.44999999999999996,
+  "shippingPrice": 10,
+  "totalPrice": 13.45,
+  "createdAt": {
+    "$date": "2020-10-12T10:01:17.164Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-12T10:01:17.164Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f966dc8a504dd38e8ef0bf2"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "5f966dc8a504dd38e8ef0bf3"
+      },
+      "product": {
+        "$oid": "5f7ee2e82d308c1e3ceee446"
+      },
+      "name": "Sinh ra từ làng",
+      "image": "/uploads\\1602151135711.jpg",
+      "price": "34",
+      "qty": 4
+    }
+  ],
+  "user": {
+    "$oid": "5f759b08f08b0e0b90eb9764"
+  },
+  "shipping": {
+    "address": "tay dang ba vi ha noi",
+    "city": "Ha Noi",
+    "postalCode": "12333",
+    "country": "Việt Nam"
+  },
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 136,
+  "taxPrice": 20.4,
+  "shippingPrice": 0,
+  "totalPrice": 156.4,
+  "createdAt": {
+    "$date": "2020-10-26T06:33:44.745Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-26T06:33:44.745Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9671d1a504dd38e8ef0bf4"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "5f9671d1a504dd38e8ef0bf5"
+      },
+      "product": {
+        "$oid": "5f7f14712d308c1e3ceee44c"
+      },
+      "name": "Đắc nhân tâm",
+      "image": "/uploads\\1602163812486.jpg",
+      "price": "67",
+      "qty": 3
+    }
+  ],
+  "user": {
+    "$oid": "5f759b08f08b0e0b90eb9764"
+  },
+  "shipping": {
+    "address": "tay dang ba vi ha noi",
+    "city": "Ha Noi",
+    "postalCode": "12333",
+    "country": "Việt Nam"
+  },
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 201,
+  "taxPrice": 30.15,
+  "shippingPrice": 0,
+  "totalPrice": 231.15,
+  "createdAt": {
+    "$date": "2020-10-26T06:50:57.187Z"
+  },
+  "updatedAt": {
+    "$date": "2020-10-26T06:50:57.187Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc7364f409bc31330d36f05"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "5fc7364f409bc31330d36f06"
+      },
+      "product": {
+        "$oid": "5f8b1b8a595e7621d4442f06"
+      },
+      "name": "Tuyệt tấc trinh thám",
+      "image": "/uploads\\1602952035569.jpg",
+      "price": "10",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "$oid": "5fc73636409bc31330d36f04"
+  },
+  "shipping": {
+    "address": "tay dang ba vi ha noi",
+    "city": "Ha Noi",
+    "postalCode": "12333",
+    "country": "Việt Nam"
+  },
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 10,
+  "taxPrice": 1.5,
+  "shippingPrice": 10,
+  "totalPrice": 21.5,
+  "createdAt": {
+    "$date": "2020-12-02T06:38:07.371Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-02T06:38:07.371Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc74106121e9d485c8289b6"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "5fc74106121e9d485c8289b7"
+      },
+      "product": {
+        "$oid": "5fad0b4cae4d4c2e180fd292"
+      },
+      "name": "Muôn kiếp nhân sinh",
+      "image": "/uploads\\1605176116807.jpg",
+      "price": "23",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "$oid": "5fc73636409bc31330d36f04"
+  },
+  "shipping": {
+    "address": "tay dang ba vi ha noi",
+    "city": "Ha Noi",
+    "postalCode": "12333",
+    "country": "Việt Nam"
+  },
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 23,
+  "taxPrice": 3.4499999999999997,
+  "shippingPrice": 10,
+  "totalPrice": 36.45,
+  "createdAt": {
+    "$date": "2020-12-02T07:23:50.249Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-02T07:23:50.249Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc742e1121e9d485c8289b8"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "5fc742e1121e9d485c8289b9"
+      },
+      "product": {
+        "$oid": "5fad0b4cae4d4c2e180fd292"
+      },
+      "name": "Muôn kiếp nhân sinh",
+      "image": "/uploads\\1605176116807.jpg",
+      "price": "23",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "$oid": "5f759b08f08b0e0b90eb9764"
+  },
+  "shipping": {
+    "address": "tay dang ba vi ha noi",
+    "city": "Ha Noi",
+    "postalCode": "12333",
+    "country": "Việt Nam"
+  },
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 23,
+  "taxPrice": 3.4499999999999997,
+  "shippingPrice": 10,
+  "totalPrice": 36.45,
+  "createdAt": {
+    "$date": "2020-12-02T07:31:46.002Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-02T07:31:46.002Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc74905121e9d485c8289ba"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "5fc74905121e9d485c8289bb"
+      },
+      "product": {
+        "$oid": "5fad0b4cae4d4c2e180fd292"
+      },
+      "name": "Muôn kiếp nhân sinh",
+      "image": "/uploads\\1605176116807.jpg",
+      "price": "23",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "$oid": "5f759b08f08b0e0b90eb9764"
+  },
+  "shipping": {
+    "address": "tay dang ba vi ha noi",
+    "city": "Ha Noi",
+    "postalCode": "12333",
+    "country": "Việt Nam"
+  },
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 23,
+  "taxPrice": 3.4499999999999997,
+  "shippingPrice": 10,
+  "totalPrice": 36.45,
+  "createdAt": {
+    "$date": "2020-12-02T07:57:57.929Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-02T07:57:57.929Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc74a05121e9d485c8289bc"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "5fc74a05121e9d485c8289bd"
+      },
+      "product": {
+        "$oid": "5facaebbd16409215c64aa2b"
+      },
+      "name": "21 bài học cho thế kỉ 21",
+      "image": "/uploads\\1605152362945.jpg",
+      "price": "13",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "$oid": "5f759b08f08b0e0b90eb9764"
+  },
+  "shipping": {
+    "address": "tay dang ba vi ha noi",
+    "city": "Ha Noi",
+    "postalCode": "12333",
+    "country": "Việt Nam"
+  },
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 13,
+  "taxPrice": 1.95,
+  "shippingPrice": 10,
+  "totalPrice": 24.95,
+  "createdAt": {
+    "$date": "2020-12-02T08:02:13.746Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-02T08:02:13.746Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc75fda05d9c64a24d0712a"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "5fc75fda05d9c64a24d0712b"
+      },
+      "product": {
+        "$oid": "5fad0b4cae4d4c2e180fd292"
+      },
+      "name": "Muôn kiếp nhân sinh",
+      "image": "/uploads\\1605176116807.jpg",
+      "price": "23",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "$oid": "5fc73636409bc31330d36f04"
+  },
+  "shipping": {
+    "address": "tay dang ba vi ha noi",
+    "city": "Ha Noi",
+    "postalCode": "12333",
+    "country": "Việt Nam"
+  },
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 23,
+  "taxPrice": 3.4499999999999997,
+  "shippingPrice": 10,
+  "totalPrice": 36.45,
+  "createdAt": {
+    "$date": "2020-12-02T09:35:22.393Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-02T09:35:22.393Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc7b6a8e191e10a0c8222d6"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "5fc7b6a8e191e10a0c8222d7"
+      },
+      "product": {
+        "$oid": "5fad0b4cae4d4c2e180fd292"
+      },
+      "name": "Muôn kiếp nhân sinh",
+      "image": "/uploads\\1605176116807.jpg",
+      "price": "23",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "$oid": "5fc73636409bc31330d36f04"
+  },
+  "shipping": {
+    "address": "tay dang ba vi ha noi",
+    "city": "Ha Noi",
+    "postalCode": "12333",
+    "country": "Việt Nam"
+  },
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 23,
+  "taxPrice": 3.4499999999999997,
+  "shippingPrice": 10,
+  "totalPrice": 36.45,
+  "createdAt": {
+    "$date": "2020-12-02T15:45:44.224Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-02T15:45:44.224Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc7b742e191e10a0c8222d8"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "5fc7b742e191e10a0c8222d9"
+      },
+      "product": {
+        "$oid": "5f7f11e52d308c1e3ceee44a"
+      },
+      "name": "Vui vẻ không quạo nha",
+      "image": "/uploads\\1602163164550.jpg",
+      "price": "20",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "$oid": "5fc73636409bc31330d36f04"
+  },
+  "shipping": {
+    "address": "tay dang ba vi ha noi",
+    "city": "Ha Noi",
+    "postalCode": "12333",
+    "country": "Việt Nam"
+  },
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 20,
+  "taxPrice": 3,
+  "shippingPrice": 10,
+  "totalPrice": 33,
+  "createdAt": {
+    "$date": "2020-12-02T15:48:18.651Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-02T15:48:18.651Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc866371e37bd07d873e908"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "5fc866371e37bd07d873e909"
+      },
+      "product": {
+        "$oid": "5f7f11bc2d308c1e3ceee449"
+      },
+      "name": "Đàn ông sao hỏa đàn bà sao kim",
+      "image": "/uploads\\1602163120617.jpg",
+      "price": "10",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "$oid": "5fc71477409bc31330d36f03"
+  },
+  "shipping": {
+    "address": "tay dang ba vi ha noi",
+    "city": "Ha Noi",
+    "postalCode": "12333",
+    "country": "Việt Nam"
+  },
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 10,
+  "taxPrice": 1.5,
+  "shippingPrice": 10,
+  "totalPrice": 21.5,
+  "createdAt": {
+    "$date": "2020-12-03T04:14:47.197Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-03T04:14:47.197Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc866c51e37bd07d873e90a"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "5fc866c51e37bd07d873e90b"
+      },
+      "product": {
+        "$oid": "5f7f14c32d308c1e3ceee44f"
+      },
+      "name": "Tôi tự học",
+      "image": "/uploads\\1602163900208.jpg",
+      "price": "16",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "$oid": "5fc71477409bc31330d36f03"
+  },
+  "shipping": {
+    "address": "cau dien",
+    "city": "ha noi",
+    "postalCode": "345",
+    "country": "Việt Nam"
+  },
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 16,
+  "taxPrice": 2.4,
+  "shippingPrice": 10,
+  "totalPrice": 28.4,
+  "createdAt": {
+    "$date": "2020-12-03T04:17:09.509Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-03T04:17:09.509Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc867e11e37bd07d873e90c"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "5fc867e11e37bd07d873e90d"
+      },
+      "product": {
+        "$oid": "5f8b1b8a595e7621d4442f06"
+      },
+      "name": "Tuyệt tấc trinh thám",
+      "image": "/uploads\\1602952035569.jpg",
+      "price": "10",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "$oid": "5fc71477409bc31330d36f03"
+  },
+  "shipping": {
+    "address": "tay dang ba vi ha noi",
+    "city": "Ha Noi",
+    "postalCode": "12333",
+    "country": "Việt Nam"
+  },
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 10,
+  "taxPrice": 1.5,
+  "shippingPrice": 10,
+  "totalPrice": 21.5,
+  "createdAt": {
+    "$date": "2020-12-03T04:21:53.919Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-03T04:21:53.919Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc8681a1e37bd07d873e90e"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "5fc8681a1e37bd07d873e90f"
+      },
+      "product": {
+        "$oid": "5facff2cae4d4c2e180fd291"
+      },
+      "name": "Tư duy cho bé",
+      "image": "/uploads\\1605173155415.jpg",
+      "price": "15",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "$oid": "5fc71477409bc31330d36f03"
+  },
+  "shipping": {
+    "address": "cau dien",
+    "city": "ha noi",
+    "postalCode": "345",
+    "country": "Việt Nam"
+  },
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 15,
+  "taxPrice": 2.25,
+  "shippingPrice": 10,
+  "totalPrice": 27.25,
+  "createdAt": {
+    "$date": "2020-12-03T04:22:50.965Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-03T04:22:50.965Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc88ab81e37bd07d873e910"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "5fc88ab81e37bd07d873e911"
+      },
+      "product": {
+        "$oid": "5facff2cae4d4c2e180fd291"
+      },
+      "name": "Tư duy cho bé",
+      "image": "/uploads\\1605173155415.jpg",
+      "price": "15",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "$oid": "5f759b08f08b0e0b90eb9764"
+  },
+  "shipping": {
+    "address": "tay dang ba vi ha noi",
+    "city": "Ha Noi",
+    "postalCode": "12333",
+    "country": "Việt Nam"
+  },
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 15,
+  "taxPrice": 2.25,
+  "shippingPrice": 10,
+  "totalPrice": 27.25,
+  "createdAt": {
+    "$date": "2020-12-03T06:50:32.406Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-03T06:50:32.406Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc892fc1e37bd07d873e912"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "5fc892fc1e37bd07d873e913"
+      },
+      "product": {
+        "$oid": "5fad0b4cae4d4c2e180fd292"
+      },
+      "name": "Muôn kiếp nhân sinh",
+      "image": "/uploads\\1605176116807.jpg",
+      "price": "23",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "$oid": "5f759b08f08b0e0b90eb9764"
+  },
+  "shipping": {
+    "address": "tay dang ba vi ha noi",
+    "city": "Ha Noi",
+    "postalCode": "12333",
+    "country": "Việt Nam"
+  },
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 23,
+  "taxPrice": 3.4499999999999997,
+  "shippingPrice": 10,
+  "totalPrice": 36.45,
+  "createdAt": {
+    "$date": "2020-12-03T07:25:48.693Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-03T07:25:48.693Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc9a08ab4b00e26b044aa8c"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "5fc9a08ab4b00e26b044aa8d"
+      },
+      "product": {
+        "$oid": "5facff2cae4d4c2e180fd291"
+      },
+      "name": "Tư duy cho bé",
+      "image": "/uploads\\1605173155415.jpg",
+      "price": "15",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "$oid": "5f759b08f08b0e0b90eb9764"
+  },
+  "shipping": {
+    "address": "tay dang ba vi ha noi",
+    "city": "Ha Noi",
+    "postalCode": "12333",
+    "country": "Việt Nam"
+  },
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 15,
+  "taxPrice": 2.25,
+  "shippingPrice": 10,
+  "totalPrice": 27.25,
+  "createdAt": {
+    "$date": "2020-12-04T02:35:54.917Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-04T02:35:54.917Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fccfd6b8a348d12f859cd3c"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "5fccfd6b8a348d12f859cd3d"
+      },
+      "product": {
+        "$oid": "5facff2cae4d4c2e180fd291"
+      },
+      "name": "Tư duy cho bé",
+      "image": "/uploads\\1605173155415.jpg",
+      "price": "15",
+      "qty": 7
+    }
+  ],
+  "user": {
+    "$oid": "5f759b08f08b0e0b90eb9764"
+  },
+  "shipping": {
+    "address": "adwdw",
+    "city": "ádwdw",
+    "postalCode": "ádwdw",
+    "country": "adwdw"
+  },
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 105,
+  "taxPrice": 15.75,
+  "shippingPrice": 0,
+  "totalPrice": 120.75,
+  "createdAt": {
+    "$date": "2020-12-06T15:48:59.176Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-06T15:48:59.176Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fccfdd78a348d12f859cd3e"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "5fccfdd78a348d12f859cd3f"
+      },
+      "product": {
+        "$oid": "5facff2cae4d4c2e180fd291"
+      },
+      "name": "Tư duy cho bé",
+      "image": "/uploads\\1605173155415.jpg",
+      "price": "15",
+      "qty": 1
+    },
+    {
+      "_id": {
+        "$oid": "5fccfdd78a348d12f859cd40"
+      },
+      "product": {
+        "$oid": "5f7f112f2d308c1e3ceee447"
+      },
+      "name": "Muôn kiếp nhân sinh",
+      "image": "/uploads\\1602162982615.jpg",
+      "price": "23",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "$oid": "5f759b08f08b0e0b90eb9764"
+  },
+  "shipping": {
+    "address": "tay dang ba vi ha noi",
+    "city": "Ha Noi",
+    "postalCode": "12333",
+    "country": "Việt Nam"
+  },
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 38,
+  "taxPrice": 5.7,
+  "shippingPrice": 10,
+  "totalPrice": 53.7,
+  "createdAt": {
+    "$date": "2020-12-06T15:50:47.817Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-06T15:50:47.817Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcd014b8a348d12f859cd41"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "5fcd014b8a348d12f859cd42"
+      },
+      "product": {
+        "$oid": "5facaebbd16409215c64aa2b"
+      },
+      "name": "21 bài học cho thế kỉ 21",
+      "image": "/uploads\\1605152362945.jpg",
+      "price": "13",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "$oid": "5f759b08f08b0e0b90eb9764"
+  },
+  "shipping": {
+    "address": "tay dang ba vi ha noi",
+    "city": "Ha Noi",
+    "postalCode": "12333",
+    "country": "Việt Nam"
+  },
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 13,
+  "taxPrice": 1.95,
+  "shippingPrice": 10,
+  "totalPrice": 24.95,
+  "createdAt": {
+    "$date": "2020-12-06T16:05:31.583Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-06T16:05:31.583Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcd17ddb6b5fb25dc1530e3"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "5fcd17ddb6b5fb25dc1530e4"
+      },
+      "product": {
+        "$oid": "5f8b1b8a595e7621d4442f06"
+      },
+      "name": "Tuyệt tấc trinh thám",
+      "image": "/uploads\\1602952035569.jpg",
+      "price": "10",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "$oid": "5f759b08f08b0e0b90eb9764"
+  },
+  "shipping": {
+    "address": "tay dang ba vi ha noi",
+    "city": "Ha Noi",
+    "postalCode": "12333",
+    "country": "Việt Nam"
+  },
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 10,
+  "taxPrice": 1.5,
+  "shippingPrice": 10,
+  "totalPrice": 21.5,
+  "createdAt": {
+    "$date": "2020-12-06T17:41:49.032Z"
+  },
+  "updatedAt": {
+    "$date": "2020-12-06T17:41:49.032Z"
+  },
+  "__v": 0
+}]

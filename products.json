@@ -1,0 +1,553 @@
+[{
+  "_id": {
+    "$oid": "5f7c0accc465911e3c86b65c"
+  },
+  "price": 34,
+  "countInStock": 111,
+  "rating": 0,
+  "numReviews": 0,
+  "name": "Tài chính cá nhân",
+  "image": "/uploads\\1602163291915.jpg",
+  "brand": "Adam Wisspai",
+  "category": "sach-kinh-doanh",
+  "description": "Ngày xửa ngày xưa, những người sao Hỏa và sao Kim đã gặp gỡ, yêu nhau và sống hạnh phúc",
+  "email": "no1@name.com",
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7c0b15d7cf8001b8d80991"
+  },
+  "price": 34,
+  "countInStock": 111,
+  "rating": 0,
+  "numReviews": 0,
+  "name": "Tôi tài giỏi bạn cũng thế",
+  "image": "/uploads\\1602163362319.jpg",
+  "brand": "111",
+  "category": "111",
+  "description": "111",
+  "email": "no2@name.com",
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7c0b49b757c7218c092a4e"
+  },
+  "price": 34,
+  "countInStock": 111,
+  "rating": 5,
+  "numReviews": 1,
+  "name": "Nhà giả kim",
+  "image": "/uploads\\1602163231436.jpg",
+  "brand": "Linh Hồng",
+  "category": "sach-quoc-te",
+  "description": "Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Được nhiều nghệ sĩ chọn đọc và giới thiệu đến các fan của mình, đơn cử là JungKook (BTS). Như tác giả Kim Suhyun đã chia sẻ về quá trình sáng tác cuốn sách này: “Tôi đã cố gắng ghi ra những điều quan trọng nhất trong cuộc sống như: Công việc, các mối quan hệ, niềm vui, tinh thần, thể chất, sức khỏe… Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016.",
+  "email": "no3@name.com",
+  "reviews": [
+    {
+      "rating": 5,
+      "_id": {
+        "$oid": "5f7edea22d308c1e3ceee442"
+      },
+      "name": "chung",
+      "comment": "very good",
+      "createdAt": {
+        "$date": "2020-10-08T09:40:51.011Z"
+      },
+      "updatedAt": {
+        "$date": "2020-10-08T09:40:51.011Z"
+      }
+    }
+  ],
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "5f7eda099840f936885adca1"
+  },
+  "price": 34,
+  "countInStock": 9,
+  "rating": 0,
+  "numReviews": 0,
+  "name": "Dế mèn phưu lưu kí",
+  "image": "/uploads\\1602163408172.jpg",
+  "brand": "Tô Hoài",
+  "category": "sach-van-hoc",
+  "description": "Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Được nhiều nghệ sĩ chọn đọc và giới thiệu đến các fan của mình, đơn cử là JungKook (BTS). Như tác giả Kim Suhyun đã chia sẻ về quá trình sáng tác cuốn sách này: “Tôi đã cố gắng ghi ra những điều quan trọng nhất trong cuộc sống như: Công việc, các mối quan hệ, niềm vui, tinh thần, thể chất, sức khỏe… Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016.",
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7edf3a2d308c1e3ceee443"
+  },
+  "price": 34,
+  "countInStock": 5,
+  "rating": 0,
+  "numReviews": 0,
+  "name": "Để con được ốm",
+  "image": "/uploads\\1602163445578.jpg",
+  "brand": "Mẹ trẻ",
+  "category": "truyen-tranh",
+  "description": "Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Được nhiều nghệ sĩ chọn đọc và giới thiệu đến các fan của mình, đơn cử là JungKook (BTS). Như tác giả Kim Suhyun đã chia sẻ về quá trình sáng tác cuốn sách này: “Tôi đã cố gắng ghi ra những điều quan trọng nhất trong cuộc sống như: Công việc, các mối quan hệ, niềm vui, tinh thần, thể chất, sức khỏe… Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016.",
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7ee21d2d308c1e3ceee444"
+  },
+  "price": 123,
+  "countInStock": 5,
+  "rating": 0,
+  "numReviews": 0,
+  "name": "Gã nghiện giày",
+  "image": "/uploads\\1602150931272.jpg",
+  "brand": "Umliea Gray",
+  "category": "sach-quoc-te",
+  "description": "Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Được nhiều nghệ sĩ chọn đọc và giới thiệu đến các fan của mình, đơn cử là JungKook (BTS). Như tác giả Kim Suhyun đã chia sẻ về quá trình sáng tác cuốn sách này: “Tôi đã cố gắng ghi ra những điều quan trọng nhất trong cuộc sống như: Công việc, các mối quan hệ, niềm vui, tinh thần, thể chất, sức khỏe… Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016.",
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7ee2472d308c1e3ceee445"
+  },
+  "price": 34,
+  "countInStock": 111,
+  "rating": 0,
+  "numReviews": 0,
+  "name": "Kỉ luật tích cực",
+  "image": "/uploads\\1602150968500.jpg",
+  "brand": "Linh Dương",
+  "category": "sach-van-hoc",
+  "description": "Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Được nhiều nghệ sĩ chọn đọc và giới thiệu đến các fan của mình, đơn cử là JungKook (BTS). Như tác giả Kim Suhyun đã chia sẻ về quá trình sáng tác cuốn sách này: “Tôi đã cố gắng ghi ra những điều quan trọng nhất trong cuộc sống như: Công việc, các mối quan hệ, niềm vui, tinh thần, thể chất, sức khỏe… Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016.",
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7ee2e82d308c1e3ceee446"
+  },
+  "price": 34,
+  "countInStock": 7,
+  "rating": 0,
+  "numReviews": 0,
+  "name": "Sinh ra từ làng",
+  "image": "/uploads\\1602151135711.jpg",
+  "brand": "Văn Cao",
+  "category": "sach-van-hoc",
+  "description": "Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Được nhiều nghệ sĩ chọn đọc và giới thiệu đến các fan của mình, đơn cử là JungKook (BTS). Như tác giả Kim Suhyun đã chia sẻ về quá trình sáng tác cuốn sách này: “Tôi đã cố gắng ghi ra những điều quan trọng nhất trong cuộc sống như: Công việc, các mối quan hệ, niềm vui, tinh thần, thể chất, sức khỏe… Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016.",
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7f112f2d308c1e3ceee447"
+  },
+  "price": 23,
+  "countInStock": 4,
+  "rating": 4.5,
+  "numReviews": 2,
+  "name": "Muôn kiếp nhân sinh",
+  "image": "/uploads\\1602162982615.jpg",
+  "brand": "John Grey",
+  "category": "truyen-tranh",
+  "description": "Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Được nhiều nghệ sĩ chọn đọc và giới thiệu đến các fan của mình, đơn cử là JungKook (BTS). Như tác giả Kim Suhyun đã chia sẻ về quá trình sáng tác cuốn sách này: “Tôi đã cố gắng ghi ra những điều quan trọng nhất trong cuộc sống như: Công việc, các mối quan hệ, niềm vui, tinh thần, thể chất, sức khỏe… Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016.",
+  "reviews": [
+    {
+      "rating": 4,
+      "_id": {
+        "$oid": "5fcde579d5355522ec1867d8"
+      },
+      "name": "dat",
+      "comment": "noi dung hay",
+      "createdAt": {
+        "$date": "2020-12-07T08:19:05.325Z"
+      },
+      "updatedAt": {
+        "$date": "2020-12-07T08:19:05.325Z"
+      }
+    },
+    {
+      "rating": 5,
+      "_id": {
+        "$oid": "5fcde856d5355522ec1867d9"
+      },
+      "name": "dat",
+      "comment": "good",
+      "createdAt": {
+        "$date": "2020-12-07T08:31:18.909Z"
+      },
+      "updatedAt": {
+        "$date": "2020-12-07T08:31:18.909Z"
+      }
+    }
+  ],
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "5f7f11772d308c1e3ceee448"
+  },
+  "price": 64,
+  "countInStock": 9,
+  "rating": 0,
+  "numReviews": 0,
+  "name": "Đừng lựa chọn an lành",
+  "image": "/uploads\\1602163046601.jpg",
+  "brand": "Alexander Bomer",
+  "category": "sach-van-hoc",
+  "description": "Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Được nhiều nghệ sĩ chọn đọc và giới thiệu đến các fan của mình, đơn cử là JungKook (BTS). Như tác giả Kim Suhyun đã chia sẻ về quá trình sáng tác cuốn sách này: “Tôi đã cố gắng ghi ra những điều quan trọng nhất trong cuộc sống như: Công việc, các mối quan hệ, niềm vui, tinh thần, thể chất, sức khỏe… Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016.",
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7f11bc2d308c1e3ceee449"
+  },
+  "price": 10,
+  "countInStock": 9,
+  "rating": 0,
+  "numReviews": 0,
+  "name": "Đàn ông sao hỏa đàn bà sao kim",
+  "image": "/uploads\\1602163120617.jpg",
+  "brand": "John Grey",
+  "category": "sach-van-hoc",
+  "description": "Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Được nhiều nghệ sĩ chọn đọc và giới thiệu đến các fan của mình, đơn cử là JungKook (BTS). Như tác giả Kim Suhyun đã chia sẻ về quá trình sáng tác cuốn sách này: “Tôi đã cố gắng ghi ra những điều quan trọng nhất trong cuộc sống như: Công việc, các mối quan hệ, niềm vui, tinh thần, thể chất, sức khỏe… Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016.",
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7f11e52d308c1e3ceee44a"
+  },
+  "price": 20,
+  "countInStock": 5,
+  "rating": 5,
+  "numReviews": 1,
+  "name": "Vui vẻ không quạo nha",
+  "image": "/uploads\\1602163164550.jpg",
+  "brand": "Huy Lê",
+  "category": "truyen-tranh",
+  "description": "Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Được nhiều nghệ sĩ chọn đọc và giới thiệu đến các fan của mình, đơn cử là JungKook (BTS). Như tác giả Kim Suhyun đã chia sẻ về quá trình sáng tác cuốn sách này: “Tôi đã cố gắng ghi ra những điều quan trọng nhất trong cuộc sống như: Công việc, các mối quan hệ, niềm vui, tinh thần, thể chất, sức khỏe… Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016.",
+  "reviews": [
+    {
+      "rating": 5,
+      "_id": {
+        "$oid": "5fcde55ed5355522ec1867d7"
+      },
+      "name": "dat",
+      "comment": "good",
+      "createdAt": {
+        "$date": "2020-12-07T08:18:38.537Z"
+      },
+      "updatedAt": {
+        "$date": "2020-12-07T08:18:38.537Z"
+      }
+    }
+  ],
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "5f7f144a2d308c1e3ceee44b"
+  },
+  "price": 25,
+  "countInStock": 9,
+  "rating": 0,
+  "numReviews": 0,
+  "name": "cách dạy con",
+  "image": "/uploads\\1602163777968.jpg",
+  "brand": "Adiano Bround",
+  "category": "ki-nang-song",
+  "description": "Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Được nhiều nghệ sĩ chọn đọc và giới thiệu đến các fan của mình, đơn cử là JungKook (BTS). Như tác giả Kim Suhyun đã chia sẻ về quá trình sáng tác cuốn sách này: “Tôi đã cố gắng ghi ra những điều quan trọng nhất trong cuộc sống như: Công việc, các mối quan hệ, niềm vui, tinh thần, thể chất, sức khỏe… Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016.",
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7f14712d308c1e3ceee44c"
+  },
+  "price": 67,
+  "countInStock": 9,
+  "rating": 0,
+  "numReviews": 0,
+  "name": "Đắc nhân tâm",
+  "image": "/uploads\\1602163812486.jpg",
+  "brand": "Dale cagile",
+  "category": "ki-nang-song",
+  "description": "Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Được nhiều nghệ sĩ chọn đọc và giới thiệu đến các fan của mình, đơn cử là JungKook (BTS). Như tác giả Kim Suhyun đã chia sẻ về quá trình sáng tác cuốn sách này: “Tôi đã cố gắng ghi ra những điều quan trọng nhất trong cuộc sống như: Công việc, các mối quan hệ, niềm vui, tinh thần, thể chất, sức khỏe… Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016.",
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7f14a02d308c1e3ceee44e"
+  },
+  "price": 3,
+  "countInStock": 9,
+  "rating": 0,
+  "numReviews": 0,
+  "name": "Nóng giận là bản năng",
+  "image": "/uploads\\1602163863623.jpg",
+  "brand": "Nguyễn Huy Vĩ",
+  "category": "sach-van-hoc",
+  "description": "Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Được nhiều nghệ sĩ chọn đọc và giới thiệu đến các fan của mình, đơn cử là JungKook (BTS). Như tác giả Kim Suhyun đã chia sẻ về quá trình sáng tác cuốn sách này: “Tôi đã cố gắng ghi ra những điều quan trọng nhất trong cuộc sống như: Công việc, các mối quan hệ, niềm vui, tinh thần, thể chất, sức khỏe… Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016.",
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7f14c32d308c1e3ceee44f"
+  },
+  "price": 16,
+  "countInStock": 5,
+  "rating": 0,
+  "numReviews": 0,
+  "name": "Tôi tự học",
+  "image": "/uploads\\1602163900208.jpg",
+  "brand": "Nguyễn Duy Linh",
+  "category": "sach-van-hoc",
+  "description": "Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Được nhiều nghệ sĩ chọn đọc và giới thiệu đến các fan của mình, đơn cử là JungKook (BTS). Như tác giả Kim Suhyun đã chia sẻ về quá trình sáng tác cuốn sách này: “Tôi đã cố gắng ghi ra những điều quan trọng nhất trong cuộc sống như: Công việc, các mối quan hệ, niềm vui, tinh thần, thể chất, sức khỏe… Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016.",
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7f4def7a44b431400c6abc"
+  },
+  "price": 22,
+  "countInStock": 5,
+  "rating": 5,
+  "numReviews": 2,
+  "name": "Phục sinh",
+  "image": "/uploads\\1607277886769.jpg",
+  "brand": "Nhat Anh",
+  "category": "sach-van-hoc",
+  "description": "Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Được nhiều nghệ sĩ chọn đọc và giới thiệu đến các fan của mình, đơn cử là JungKook (BTS). Như tác giả Kim Suhyun đã chia sẻ về quá trình sáng tác cuốn sách này: “Tôi đã cố gắng ghi ra những điều quan trọng nhất trong cuộc sống như: Công việc, các mối quan hệ, niềm vui, tinh thần, thể chất, sức khỏe… Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016.",
+  "reviews": [
+    {
+      "rating": 5,
+      "_id": {
+        "$oid": "5f7f4e017a44b431400c6abd"
+      },
+      "name": "DatNguyen",
+      "comment": "abc",
+      "createdAt": {
+        "$date": "2020-10-08T17:36:01.284Z"
+      },
+      "updatedAt": {
+        "$date": "2020-10-08T17:36:01.284Z"
+      }
+    },
+    {
+      "rating": 5,
+      "_id": {
+        "$oid": "5fce0864d5355522ec1867e1"
+      },
+      "name": "dat",
+      "comment": "hi",
+      "createdAt": {
+        "$date": "2020-12-07T10:48:04.390Z"
+      },
+      "updatedAt": {
+        "$date": "2020-12-07T10:48:04.390Z"
+      }
+    }
+  ],
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "5f8b1ade595e7621d4442f05"
+  },
+  "price": 64,
+  "countInStock": 9,
+  "rating": 0,
+  "numReviews": 0,
+  "name": "Tiểu thuyết kinh điển Quo Vadis",
+  "image": "/uploads\\1602951877669.jpg",
+  "brand": "QuoVadis",
+  "category": "sach-quoc-te",
+  "description": "Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Được nhiều nghệ sĩ chọn đọc và giới thiệu đến các fan của mình, đơn cử là JungKook (BTS). Như tác giả Kim Suhyun đã chia sẻ về quá trình sáng tác cuốn sách này: “Tôi đã cố gắng ghi ra những điều quan trọng nhất trong cuộc sống như: Công việc, các mối quan hệ, niềm vui, tinh thần, thể chất, sức khỏe… Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016.",
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8b1b8a595e7621d4442f06"
+  },
+  "price": 10,
+  "countInStock": 4,
+  "rating": 5,
+  "numReviews": 2,
+  "name": "Tuyệt tấc trinh thám",
+  "image": "/uploads\\1602952035569.jpg",
+  "brand": "Kieo Hirashio",
+  "category": "sach-quoc-te",
+  "description": "Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Được nhiều nghệ sĩ chọn đọc và giới thiệu đến các fan của mình, đơn cử là JungKook (BTS). Như tác giả Kim Suhyun đã chia sẻ về quá trình sáng tác cuốn sách này: “Tôi đã cố gắng ghi ra những điều quan trọng nhất trong cuộc sống như: Công việc, các mối quan hệ, niềm vui, tinh thần, thể chất, sức khỏe…\n\nĐã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016.",
+  "reviews": [
+    {
+      "rating": 5,
+      "_id": {
+        "$oid": "5fab87380c18a1103890c390"
+      },
+      "name": "DatNguyen",
+      "comment": "1111",
+      "createdAt": {
+        "$date": "2020-11-11T06:39:52.787Z"
+      },
+      "updatedAt": {
+        "$date": "2020-11-11T06:39:52.787Z"
+      }
+    },
+    {
+      "rating": 5,
+      "_id": {
+        "$oid": "5fc76cb905d9c64a24d07130"
+      },
+      "name": "dat1",
+      "comment": "hello",
+      "createdAt": {
+        "$date": "2020-12-02T10:30:17.206Z"
+      },
+      "updatedAt": {
+        "$date": "2020-12-02T10:30:17.206Z"
+      }
+    }
+  ],
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "5f8b1c52595e7621d4442f07"
+  },
+  "price": 64,
+  "countInStock": 9,
+  "rating": 3.5,
+  "numReviews": 2,
+  "name": "Sách văn học nước ngoài hấp dẫn",
+  "image": "/uploads\\1602952230146.jpg",
+  "brand": "Sebatistan Fitzeth",
+  "category": "sach-quoc-te",
+  "description": "\n\nĐã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016.\n\nĐã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016.\n\nĐược nhiều nghệ sĩ chọn đọc và giới thiệu đến các fan của mình, đơn cử là JungKook (BTS).\n\nNhư tác giả Kim Suhyun đã chia sẻ về quá trình sáng tác cuốn sách này:\n\n“Tôi đã cố gắng ghi ra những điều quan trọng nhất trong cuộc sống như:\n\nCông việc, các mối quan hệ, niềm vui, tinh thần, thể chất, sức khỏe…",
+  "reviews": [
+    {
+      "rating": 5,
+      "_id": {
+        "$oid": "5f9233fcbe0e491134858ba1"
+      },
+      "name": "DatNguyen",
+      "comment": "123",
+      "createdAt": {
+        "$date": "2020-10-23T01:38:04.395Z"
+      },
+      "updatedAt": {
+        "$date": "2020-10-23T01:38:04.395Z"
+      }
+    },
+    {
+      "rating": 2,
+      "_id": {
+        "$oid": "5f92344cbe0e491134858ba2"
+      },
+      "name": "DatNguyen",
+      "comment": "a",
+      "createdAt": {
+        "$date": "2020-10-23T01:39:24.031Z"
+      },
+      "updatedAt": {
+        "$date": "2020-10-23T01:39:24.031Z"
+      }
+    }
+  ],
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "5facaebbd16409215c64aa2b"
+  },
+  "price": 13,
+  "countInStock": 54,
+  "rating": 0,
+  "numReviews": 0,
+  "name": "21 bài học cho thế kỉ 21",
+  "image": "/uploads\\1605152362945.jpg",
+  "brand": "Nguyễn Đình Thi",
+  "category": "sach-quoc-te",
+  "description": "Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Được nhiều nghệ sĩ chọn đọc và giới thiệu đến các fan của mình, đơn cử là JungKook (BTS). Như tác giả Kim Suhyun đã chia sẻ về quá trình sáng tác cuốn sách này: “Tôi đã cố gắng ghi ra những điều quan trọng nhất trong cuộc sống như: Công việc, các mối quan hệ, niềm vui, tinh thần, thể chất, sức khỏe…",
+  "reviews": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5facff2cae4d4c2e180fd291"
+  },
+  "price": 15,
+  "countInStock": 65,
+  "rating": 5,
+  "numReviews": 1,
+  "name": "Tư duy cho bé",
+  "image": "/uploads\\1607277801710.jpg",
+  "brand": "Hải Minh",
+  "category": "truyen-tranh",
+  "description": "Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Được nhiều nghệ sĩ chọn đọc và giới thiệu đến các fan của mình, đơn cử là JungKook (BTS). Như tác giả Kim Suhyun đã chia sẻ về quá trình sáng tác cuốn sách này: “Tôi đã cố gắng ghi ra những điều quan trọng nhất trong cuộc sống như: Công việc, các mối quan hệ, niềm vui, tinh thần, thể chất, sức khỏe…\n\nĐã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016.",
+  "reviews": [
+    {
+      "rating": 5,
+      "_id": {
+        "$oid": "5fc50d1338b574039461de63"
+      },
+      "name": "chung",
+      "comment": "hihi",
+      "createdAt": {
+        "$date": "2020-11-30T15:17:39.290Z"
+      },
+      "updatedAt": {
+        "$date": "2020-11-30T15:17:39.290Z"
+      }
+    }
+  ],
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "5fad0b4cae4d4c2e180fd292"
+  },
+  "price": 23,
+  "countInStock": 7,
+  "rating": 3.3333333333333335,
+  "numReviews": 3,
+  "name": "Truyện ngụ ngôn",
+  "image": "/uploads\\1607277764711.jpg",
+  "brand": "Huy Lê",
+  "category": "truyen-tranh",
+  "description": "Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Đã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016. Được nhiều nghệ sĩ chọn đọc và giới thiệu đến các fan của mình, đơn cử là JungKook (BTS). Như tác giả Kim Suhyun đã chia sẻ về quá trình sáng tác cuốn sách này: “Tôi đã cố gắng ghi ra những điều quan trọng nhất trong cuộc sống như: Công việc, các mối quan hệ, niềm vui, tinh thần, thể chất, sức khỏe…\n\nĐã tái bản hơn 100 lần kể từ lần xuất bản đầu tiên vào năm 2016.",
+  "reviews": [
+    {
+      "rating": 0,
+      "_id": {
+        "$oid": "5fcda714e8958f305c51b2a6"
+      },
+      "name": "dat",
+      "comment": "happy",
+      "createdAt": {
+        "$date": "2020-12-07T03:52:52.988Z"
+      },
+      "updatedAt": {
+        "$date": "2020-12-07T03:52:52.988Z"
+      }
+    },
+    {
+      "rating": 5,
+      "_id": {
+        "$oid": "5fcda727e8958f305c51b2a7"
+      },
+      "name": "dat",
+      "comment": "happy",
+      "createdAt": {
+        "$date": "2020-12-07T03:53:11.044Z"
+      },
+      "updatedAt": {
+        "$date": "2020-12-07T03:53:11.044Z"
+      }
+    },
+    {
+      "rating": 5,
+      "_id": {
+        "$oid": "5fcda73be8958f305c51b2a8"
+      },
+      "name": "dat",
+      "comment": "think",
+      "createdAt": {
+        "$date": "2020-12-07T03:53:31.828Z"
+      },
+      "updatedAt": {
+        "$date": "2020-12-07T03:53:31.828Z"
+      }
+    }
+  ],
+  "__v": 3
+}]

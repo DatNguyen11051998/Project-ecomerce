@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "5f734e4d9be7de3300ca6dff"
+  },
+  "isAdmin": true,
+  "name": "DatNguyen",
+  "email": "admin@example.com",
+  "password": "1234",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f759b08f08b0e0b90eb9764"
+  },
+  "isAdmin": false,
+  "name": "chung",
+  "email": "chung@gmail.com",
+  "password": "1234",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc71477409bc31330d36f03"
+  },
+  "isAdmin": false,
+  "name": "trang",
+  "email": "trang@gmail.com",
+  "password": "1234",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc73636409bc31330d36f04"
+  },
+  "isAdmin": false,
+  "name": "dat",
+  "email": "dat@gmail.com",
+  "password": "1234",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc76bff05d9c64a24d0712f"
+  },
+  "isAdmin": false,
+  "name": "dat1",
+  "email": "dat1@gmail.com",
+  "password": "1234",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc992d7ccfccc1594b0f25d"
+  },
+  "isAdmin": false,
+  "name": "huyen",
+  "email": "huyen@gmail.com",
+  "password": "1234",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcdcdda0e735517c8b88cd8"
+  },
+  "isAdmin": false,
+  "name": "dat3",
+  "email": "dat3@gmail.com",
+  "password": "1234",
+  "__v": 0
+}]

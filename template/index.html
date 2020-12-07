@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="style.css" />
+  <title>Amazona</title>
+</head>
+
+<body>
+  <div class="grid-container">
+    <header class="header">
+      <div class="brand">
+        <button onclick="openMenu()">
+          &#9776;
+        </button>
+        <a href="index.html">WebBook</a>
+      </div>
+      <div class="header-links">
+        <a href="cart.html">Cart</a>
+        <a href="signin.html">Sign In</a>
+      </div>
+    </header>
+    <aside class="sidebar">
+      <h3>Shopping Categories</h3>
+      <button class="sidebar-close-button" onclick="closeMenu()">x</button>
+      <ul>
+        <li>
+          <a href="index.html">Pants</a>
+        </li>
+
+        <li>
+          <a href="index.html">Shirts</a>
+        </li>
+
+      </ul>
+    </aside>
+    <main class="main">
+      <div class="content">
+        <ul class="products">
+          <li>
+            <div class="product">
+              <img class="product-image" src="https://salt.tikicdn.com/cache/280x280/ts/product/87/c9/c0/bfebf4adcb31c8eb5c39fd3779cc4b68.jpg" alt="product" />
+              <div class="product-name">
+                <a href="product.html">Slim Shirt</a>
+              </div>
+              <div class="product-brand">Nike</div>
+              <div class="product-price">$60</div>
+              <div class="product-rating">4.5 Stars (10 Reviews)</div>
+            </div>
+          </li>
+          <li>
+            <div class="product">
+              <img class="product-image" src="https://salt.tikicdn.com/cache/280x280/ts/product/0b/e4/9d/9819a2afb854e301ebaf93e8e4a8a9d3.jpg" alt="product" />
+              <div class="product-name">
+                <a href="product.html">Slim Shirt</a>
+              </div>
+              <div class="product-brand">Nike</div>
+              <div class="product-price">$60</div>
+              <div class="product-rating">4.5 Stars (10 Reviews)</div>
+            </div>
+          </li>
+          <li>
+            <div class="product">
+              <img class="product-image" src="https://salt.tikicdn.com/cache/280x280/ts/product/b2/56/d3/17262447faaef713be60d6b25ec0551d.jpg" alt="product" />
+              <div class="product-name">
+                <a href="product.html">Slim Shirt</a>
+              </div>
+              <div class="product-brand">Nike</div>
+              <div class="product-price">$60</div>
+              <div class="product-rating">4.5 Stars (10 Reviews)</div>
+            </div>
+          </li>
+          <li>
+            <div class="product">
+              <img class="product-image" src="https://salt.tikicdn.com/cache/280x280/ts/product/ce/6b/d1/5eedba8141133ef2a09600bc2682fc34.jpg" alt="product" />
+              <div class="product-name">
+                <a href="product.html">Slim Shirt</a>
+              </div>
+              <div class="product-brand">Nike</div>
+              <div class="product-price">$60</div>
+              <div class="product-rating">4.5 Stars (10 Reviews)</div>
+            </div>
+          </li>
+          <li>
+            <div class="product">
+              <img class="product-image" src="https://salt.tikicdn.com/cache/280x280/ts/product/60/19/8b/f9e48030d008de400d64d4f133773816.jpg" alt="product" />
+              <div class="product-name">
+                <a href="product.html">Slim Shirt</a>
+              </div>
+              <div class="product-brand">Nike</div>
+              <div class="product-price">$60</div>
+              <div class="product-rating">4.5 Stars (10 Reviews)</div>
+            </div>
+          </li>
+          <li>
+            <div class="product">
+              <img class="product-image" src="https://salt.tikicdn.com/cache/280x280/ts/product/49/13/85/768e01954281011abaa7baf062ad45fc.jpg" alt="product" />
+              <div class="product-name">
+                <a href="product.html">Slim Shirt</a>
+              </div>
+              <div class="product-brand">Nike</div>
+              <div class="product-price">$60</div>
+              <div class="product-rating">4.5 Stars (10 Reviews)</div>
+            </div>
+          </li>
+
+        </ul>
+      </div>
+
+    </main>
+    <footer class="footer">
+      All right reserved.
+    </footer>
+  </div>
+  <script>
+    function openMenu() {
+      document.querySelector(".sidebar").classList.add("open");
+    }
+    function closeMenu() {
+      document.querySelector(".sidebar").classList.remove("open")
+    }
+  </script>
+</body>
+
+</html>
